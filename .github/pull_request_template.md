@@ -1,15 +1,3 @@
-<!--
-IMPORTANT:
-PR title must follow semantic format:
-
-feat: short description
-fix: short description
-refactor: short description
-chore: short description
-docs: short description
-perf: short description
--->
-
 Closes #
 
 ---
